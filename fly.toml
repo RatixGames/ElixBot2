@@ -1,0 +1,16 @@
+app = "elixbot-discord"
+primary_region = "mad"
+
+[env]
+  DISCORD_TOKEN = "${DISCORD_TOKEN}"
+  PORT = "3000"
+  NODE_ENV = "production"
+
+[http_service]
+  internal_port = 3000
+  force_https = true
+  auto_stop_machines = false
+
+[[mounts]]
+  source = "bot_data"
+  destination = "/data"

@@ -1,0 +1,26 @@
+{
+  "activeScrims": {
+    "1748492422622": {
+      "playersPerTeam": 3,
+      "amount": 500,
+      "status": "waiting",
+      "teams": {
+        "equipoA": {
+          "players": [
+            {
+              "id": "505440332364906496",
+              "username": "baby7767",
+              "paid": true
+            }
+          ],
+          "complete": false
+        },
+        "equipoB": {
+          "players": [],
+          "complete": false
+        }
+      },
+      "prizePool": 500
+    }
+  }
+}

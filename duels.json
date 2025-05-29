@@ -1,0 +1,17 @@
+{
+  "activeDuels": {
+    "1748488633110": {
+      "challenger": {
+        "id": "505440332364906496",
+        "username": "baby7767",
+        "amount": 1000000
+      },
+      "target": {
+        "id": "1046149538366369892",
+        "username": "sagitario1408",
+        "accepted": true
+      },
+      "winner": "1046149538366369892"
+    }
+  }
+}
